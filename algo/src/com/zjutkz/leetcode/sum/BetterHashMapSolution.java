@@ -7,7 +7,7 @@ import java.util.HashMap;
  */
 public class BetterHashMapSolution {
     public int[] twoSum(int[] nums, int target) {
-        
+
         //使用HashMap标记已经遍历过的元素及其索引.
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
