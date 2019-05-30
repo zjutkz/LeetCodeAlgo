@@ -1,0 +1,2 @@
+# LeetCodeAlgo
+code for LeetCode
