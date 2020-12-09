@@ -2,23 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="052bf4e2-d563-4f25-9a22-a3464a66fbf0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/is_valid_sudoku/BetterSolution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/is_valid_sudoku/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_insert/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_insert/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_range/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_range/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/HeapSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/InsertionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/SelectionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/ShellSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/OddEvenPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/Outter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/aqs/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/binary/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/binary/BinarySearchNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/json/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/json/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/CombineSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/FindCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/RemoveEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/RemoveN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/ReverseBetween.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/ReverseBetweenNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/ReverseN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/lru/LinkedHashMapLRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/lru/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/newtree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/newtree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/newtree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/deque/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/deque/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/deque/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/lock/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/lock/NewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/lock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/pm/synchroned/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/singleton/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/singleton/Hungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/singleton/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/singleton/Lazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/FindK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/FindKNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/MergeSortNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/QuickSortNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/stack/Stack2Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/Combine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/CombineNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/HuiWen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/HuiWenNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/PermutationNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/Prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/string/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/tree/heap/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/wait/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/callback/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/callback/NetworkCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/callback/NetworkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/callback/NetworkParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/callback/NetworkResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/list/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/list/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/android/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/list/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/list/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/pattern/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/pattern/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/zjutkz/leetcode/sort/ShellSort.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,24 +99,6 @@
       <FILTER>com.zjutkz.leetcode.search_range.*</FILTER>
     </SUITE>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="233" lean-forward="false" selection-start-line="4" selection-start-column="233" selection-end-line="4" selection-end-column="233" />
-              <folding>
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -57,471 +106,35 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>parsein</find>
-      <find>sumVal</find>
-      <find>l1Val + l2Val</find>
-      <find>PAYPALISHIRING</find>
-      <find>parseInt</find>
-      <find>let</find>
-      <find>hashcode</find>
-      <find>com.zjutkz.leetcode.merge_two_lists.</find>
-      <find>findK</find>
-      <find>issip</find>
-      <find>ab</find>
-      <find>HashMap</find>
-      <find>maxans</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>int</replace>
-      <replace>answer</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/generate_parenthesis/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/generate_parenthesis/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/perms/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/perms/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_Lists.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/merge_k_Lists.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/ListNode.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/BetterSolution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/swap_pairs/ListNode.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/swap_pairs/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group/ListNode.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/swap_pairs/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_duplicates/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_duplicates/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_element/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_element/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/str_str/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/str_str/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/str_str/BetterSolution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/divide/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/divide/BetterSolution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/divide/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/find_substring/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/find_substring/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/find_substring/BetterSolution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/AA.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/BB.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/next_permutation/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/next_permutation/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/longest_valid_parentheses/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/longest_valid_parentheses/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_range/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_range/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_insert/Test.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_insert/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/is_valid_sudoku/Solution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/is_valid_sudoku/BetterSolution.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/MergeSort.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="723" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCodeAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1hgCKEnjSRPrDJ4SfI7tn8e4eZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zjutkz.leetcode.android.string" />
+      <recent name="com.zjutkz.leetcode.android.newtree" />
       <recent name="com.zjutkz.leetcode.reverse_k_group" />
       <recent name="com.zjutkz.leetcode.swap_pairs" />
       <recent name="com.zjutkz.leetcode.merge_k_lists" />
-      <recent name="com.zjutkz.leetcode.merge_two_lists" />
-      <recent name="com.zjutkz.leetcode.list" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.HeapSort">
-    <configuration default="false" name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zjutkz.leetcode.search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.search.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zjutkz.leetcode.search_range.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.search_range.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zjutkz.leetcode.search_insert.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.search_insert.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zjutkz.leetcode.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.sort.ShellSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zjutkz.leetcode.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.sort.HeapSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.HuiWenNew">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -557,255 +170,134 @@
       <module />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
+    <configuration name="Combine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.android.string.Combine" />
+      <module name="algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjutkz.leetcode.android.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
+    <configuration name="CombineNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.android.string.CombineNew" />
+      <module name="algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjutkz.leetcode.android.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+    <configuration name="FindKNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.android.sort.FindKNew" />
+      <module name="algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjutkz.leetcode.android.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuiWenNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.android.string.HuiWenNew" />
+      <module name="algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjutkz.leetcode.android.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zjutkz.leetcode.android.string.PermutationNew" />
+      <module name="algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjutkz.leetcode.android.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
-      <method />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCodeAlgo" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -813,92 +305,78 @@
       <option name="passParentEnvs" value="true" />
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test (4)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (5)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HeapSort" />
+    <list>
+      <item itemvalue="Application.FindKNew" />
+      <item itemvalue="Application.PermutationNew" />
+      <item itemvalue="Application.CombineNew" />
+      <item itemvalue="Application.Combine" />
+      <item itemvalue="Application.HuiWenNew" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HeapSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ShellSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (5)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <list>
+        <item itemvalue="Application.HuiWenNew" />
+        <item itemvalue="Application.Combine" />
+        <item itemvalue="Application.CombineNew" />
+        <item itemvalue="Application.PermutationNew" />
+        <item itemvalue="Application.FindKNew" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -919,531 +397,133 @@
       <workItem from="1563363671218" duration="12343000" />
       <workItem from="1564396217100" duration="5661000" />
       <workItem from="1580695933525" duration="6507000" />
+      <workItem from="1600423285004" duration="95667000" />
+      <workItem from="1602397259388" duration="2005000" />
+      <workItem from="1602494885850" duration="5352000" />
+      <workItem from="1603707150539" duration="453000" />
+      <workItem from="1604309669339" duration="486000" />
+      <workItem from="1607511090019" duration="382000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116515000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="723" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21394612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2956381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15530904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34548336" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21394612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="293" />
-    </breakpoint-manager>
-    <watches-manager />
+  <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#Project_Structure" timestamp="1600778173336">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="99" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1600778173336" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600588865399">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1600588865399" />
+    <state x="460" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1607511233296">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="460" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1600946282941" />
+    <state x="460" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1602128660865" />
+    <state x="460" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826/1440.23.2560.1417@0.23.1440.826" timestamp="1607511233296" />
+    <state x="569" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600423627282">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="569" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.823@0.23.1440.823" timestamp="1600423627282" />
+    <state x="483" y="145" key="#xdebugger.evaluate" timestamp="1601714002838">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="483" y="145" key="#xdebugger.evaluate/0.23.1440.823@0.23.1440.823" timestamp="1601447158068" />
+    <state x="483" y="145" key="#xdebugger.evaluate/0.23.1440.826@0.23.1440.826" timestamp="1601714002838" />
+    <state x="79" y="36" key="CommitChangelistDialog2" timestamp="1600939429135">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="79" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1600939429135" />
+    <state x="100" y="123" width="1240" height="621" key="DiffContextDialog" timestamp="1602390837210">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="123" width="1240" height="621" key="DiffContextDialog/0.23.1440.822@0.23.1440.822" timestamp="1602390837210" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1602391801414">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1602391801414" />
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1602164390241" />
+    <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1601720877730" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601562471769" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center" timestamp="1602391801409">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1602391801409" />
+    <state width="1398" height="249" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1602164390239" />
+    <state width="1398" height="178" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1601720877729" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1601562471768" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left" timestamp="1602391801404">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1602391801404" />
+    <state width="1398" height="249" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1602164390239" />
+    <state width="1398" height="178" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1601720877728" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1601562471768" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right" timestamp="1602391801413">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1602391801413" />
+    <state width="1398" height="249" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1602164390240" />
+    <state width="1398" height="178" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1601720877730" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1601562471769" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1602391801286">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1602391801286" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1602164390242" />
+    <state width="1398" height="178" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1601720877644" />
+    <state width="1398" height="240" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601562471679" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1602391801285">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1602391801285" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1602164390242" />
+    <state width="1398" height="178" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1601720877643" />
+    <state width="1398" height="240" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1601562471679" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1602391801285">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1602391801285" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1602164390242" />
+    <state width="1398" height="178" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1601720877643" />
+    <state width="1398" height="240" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1601562471679" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1602391801286">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1602391801286" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1602164390242" />
+    <state width="1398" height="178" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1601720877643" />
+    <state width="1398" height="240" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1601562471679" />
+    <state x="100" y="123" width="1240" height="621" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602390837210">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="123" width="1240" height="621" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1602390837210" />
+    <state x="100" y="123" width="1240" height="623" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602390141517">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="123" width="1240" height="623" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1602390141517" />
+    <state x="100" y="123" width="1240" height="623" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.823@0.23.1440.823" timestamp="1602059311728" />
+    <state x="378" y="191" width="683" height="486" key="find.popup" timestamp="1604314239745">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="378" y="191" width="683" height="486" key="find.popup/0.23.1440.822/1440.23.2560.1417@0.23.1440.822" timestamp="1604314239745" />
+    <state x="385" y="170" width="670" height="675" key="search.everywhere.popup" timestamp="1602242899730">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="170" width="670" height="675" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1602242899730" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1600939380469" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1602057256296" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_two_lists/BetterSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/BetterSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="26" column="71" lean-forward="true" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/merge_k_lists/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group.java" />
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/swap_pairs/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/swap_pairs/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/swap_pairs/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/list/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/list/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/reverse_k_group/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="116" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="116" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_duplicates/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_nth_from_end/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_duplicates/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_element/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/remove_element/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/str_str/BetterSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/str_str/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/str_str/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/divide/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/divide/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/divide/BetterSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="1957" column="18" lean-forward="false" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/find_substring/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/find_substring/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="116" lean-forward="false" selection-start-line="9" selection-start-column="116" selection-end-line="9" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/find_substring/BetterSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/AA.java" />
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/BB.java" />
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/Test.java" />
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/next_permutation/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/next_permutation/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/longest_valid_parentheses/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/longest_valid_parentheses/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="77" lean-forward="false" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_range/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_range/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_insert/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/search_insert/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/is_valid_sudoku/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="88" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/is_valid_sudoku/BetterSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="41" column="1" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="41" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="150" lean-forward="false" selection-start-line="5" selection-start-column="150" selection-end-line="5" selection-end-column="150" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="150" lean-forward="false" selection-start-line="5" selection-start-column="150" selection-end-line="5" selection-end-column="150" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="150" lean-forward="false" selection-start-line="5" selection-start-column="150" selection-end-line="5" selection-end-column="150" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/src/com/zjutkz/leetcode/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="233" lean-forward="false" selection-start-line="4" selection-start-column="233" selection-end-line="4" selection-end-column="233" />
-          <folding>
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCodeAlgo$CombineSortList.ic" NAME="CombineSortList Coverage Results" MODIFIED="1600427438811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zjutkz.leetcode.list.*</FILTER>
+    </SUITE>
   </component>
 </project>
